@@ -1,0 +1,12 @@
+{
+  "ivcs": {
+    "endpoint": "https://IVCS-ENDPOINT",
+    "clientId": "SOME-RANDOM-ID",
+    "clientName": "SOME_RANDOM_NAME",
+    "auth": {
+      "partnerId": "YOUR-PARTNER-ID",
+      "apiKey": "YOUR-API-KEY",
+      "localId": "WILL BE REPLACED AT RUNTIME"
+    }
+  }
+}
