@@ -1,6 +1,6 @@
 {
   "name": "node-ivcs",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "Intelli-vision Video Cloud Services Client Library",
   "main": "index.js",
   "scripts": {
